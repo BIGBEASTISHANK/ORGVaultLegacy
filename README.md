@@ -1,8 +1,6 @@
 # ORG Vault Legacy
 
 > [!IMPORTANT]
-> 🚀 **Legacy Version Notice**
->
 > This repository contains the original version of **ORG Vault** - the foundational project that inspired the development of the modern **ORG Vault ecosystem**.
 >
 > It served as the groundwork for:
