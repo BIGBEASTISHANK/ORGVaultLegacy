@@ -1,4 +1,18 @@
-# ORGVault Version One
+# ORG Vault Legacy
+
+> [!IMPORTANT]
+> 🚀 **Legacy Version Notice**
+>
+> This repository contains the original version of **ORG Vault** - the foundational project that inspired the development of the modern **ORG Vault ecosystem**.
+>
+> It served as the groundwork for:
+>
+> - 🔐 **[ORG Vault Server](https://github.com/BBICorporation/ORGVaultServer)**
+> - 🖥️ **ORG Vault Client** *(currently in development)*
+>
+> Both projects are now being actively developed and maintained under **[BBI Corporation](https://github.com/BBICorporation)**.
+>
+> While this legacy version is no longer the primary focus, it remains an important milestone in the evolution of ORG Vault.
 
 ## Project Overview
 
